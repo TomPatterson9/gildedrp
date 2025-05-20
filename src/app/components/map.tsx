@@ -9,7 +9,7 @@ export default function InteractiveMap() {
   const mapRef = useRef<HTMLDivElement>(null); // Explicitly typed as HTMLDivElement
   const containerRef = useRef<HTMLDivElement>(null); // Explicitly typed as HTMLDivElement
   const pos = useRef({ x: 0, y: 0, dx: 0, dy: 0, dragging: false });
-
+  const basePath = process.env.BASE_PATH || "";
   const blips = [
     { top: "60%", left: "45%", name: "Valentine General Store", owner: "John Smith", icon: "/icons/store.png" },
     { top: "55.8%", left: "53.9%", name: "Blackwater Honey", owner: "Claire Dupont", icon: "/icons/honey.png" },
@@ -29,7 +29,22 @@ export default function InteractiveMap() {
     const map = mapRef.current;
     const container = containerRef.current;
     if (!map || !container) return;
-
+    const handleDoubleClick = (e: MouseEvent) => {
+      e.preventDefault();
+    
+      const containerRect = container.getBoundingClientRect();
+      const offsetX = e.clientX - containerRect.left - pos.current.x;
+      const offsetY = e.clientY - containerRect.top - pos.current.y;
+    
+      const newScale = Math.min(scale * 1.5, 20); // Increase scale
+      const scaleChange = newScale / scale;
+    
+      pos.current.x = pos.current.x - offsetX * (scaleChange - 1);
+      pos.current.y = pos.current.y - offsetY * (scaleChange - 1);
+    
+      setScale(newScale);
+      map.style.transform = `translate(${pos.current.x}px, ${pos.current.y}px) scale(${newScale})`;
+    };
     const handleMouseDown = (e: MouseEvent) => {
       pos.current.dragging = true;
       pos.current.dx = e.clientX - pos.current.x;
@@ -92,7 +107,7 @@ export default function InteractiveMap() {
     map.addEventListener("touchstart", handleTouchStart);
     map.addEventListener("touchmove", handleTouchMove);
     map.addEventListener("touchend", handleTouchEnd);
-
+    map.addEventListener("dblclick", handleDoubleClick);
     return () => {
       map.removeEventListener("mousedown", handleMouseDown);
       window.removeEventListener("mousemove", handleMouseMove);
@@ -102,17 +117,36 @@ export default function InteractiveMap() {
       map.removeEventListener("touchstart", handleTouchStart);
       map.removeEventListener("touchmove", handleTouchMove);
       map.removeEventListener("touchend", handleTouchEnd);
+      map.removeEventListener("dblclick", handleDoubleClick);
     };
   }, [scale]);
 
   return (
-    <div ref={containerRef} className="w-screen h-screen overflow-hidden relative">
-      <button
-        onClick={resetZoom}
-        className="absolute top-4 right-4 z-50 bg-white text-black px-4 py-2 rounded shadow"
-      >
-        Reset Zoom
-      </button>
+<div className="min-h-screen py-20 px-10 bg-black">
+  <div
+    ref={containerRef}
+    className="relative w-full max-w-[1600px] mx-auto aspect-[16/9] overflow-hidden rounded-xl shadow-lg"
+  >     <div className="absolute top-4 right-4 z-50 flex flex-col gap-2">
+  <button
+    onClick={() => setScale((s) => Math.min(s + 0.2, 20))}
+    className="bg-white text-black px-4 py-2 rounded shadow hover:bg-gray-200"
+  >
+    Zoom In
+  </button>
+  <button
+    onClick={() => setScale((s) => Math.max(s - 0.2, 0.5))}
+    className="bg-white text-black px-4 py-2 rounded shadow hover:bg-gray-200"
+  >
+    Zoom Out
+  </button>
+  <button
+    onClick={resetZoom}
+    className="bg-white text-black px-4 py-2 rounded shadow hover:bg-gray-200"
+  >
+    Reset Zoom
+  </button>
+</div>
+
 
       <div
         ref={mapRef}
@@ -120,7 +154,7 @@ export default function InteractiveMap() {
         style={{ transform: `translate(${pos.current.x}px, ${pos.current.y}px) scale(${scale})`, transformOrigin: "top left" }}
       >
         <Image
-          src="/gildedrp/map.jpg"
+          src={`gildedrp/map.jpg`}
           alt="Map"
           layout="fill"
           objectFit="contain"
@@ -129,30 +163,30 @@ export default function InteractiveMap() {
 
         {blips.map((blip, idx) => (
         <div
-            key={idx}
-            className="absolute cursor-pointer"
-            style={{
-            top: blip.top,
-            left: blip.left,
-            transform: `translate(-50%, -50%) scale(${1 / scale})`,
-            transformOrigin: "center center",
-            }}
-            onMouseEnter={(e) => {
-            setTooltip({
-                visible: true,
-                name: blip.name,
-                owner: blip.owner,
-                x: e.clientX,
-                y: e.clientY,
-            });
-            }}
-            onMouseLeave={() => setTooltip({ ...tooltip, visible: false })}
+        key={idx}
+        className="absolute cursor-pointer"
+        style={{
+        top: blip.top,
+        left: blip.left,
+        transform: `translate(-50%, -50%) scale(${1 / scale})`,
+        transformOrigin: "center center",
+        }}
+        onMouseEnter={(e) => {
+        setTooltip({
+            visible: true,
+            name: blip.name,
+            owner: blip.owner,
+            x: e.clientX,
+            y: e.clientY,
+        });
+        }}
+        onMouseLeave={() => setTooltip({ ...tooltip, visible: false })}
         >
-            {blip.icon ? (
-            <Image src={blip.icon} alt={blip.name} width={24} height={24} />
-            ) : (
-            <div className="w-3 h-3 bg-red-600 rounded-full"></div>
-            )}
+        {blip.icon ? (
+        <Image src={`${basePath}${blip.icon}`} alt={blip.name} width={24} height={24} />
+        ) : (
+        <div className="w-3 h-3 bg-red-600 rounded-full"></div>
+        )}
         </div>
         ))}
 
@@ -168,5 +202,7 @@ export default function InteractiveMap() {
         </div>
       )}
     </div>
+    </div>
+
   );
 }

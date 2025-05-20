@@ -27,7 +27,7 @@ const Navbar = () => {
           <Link href="/" className="block">
             <div className="relative">
               <Image
-                src="/logo.png"
+                src="gildedrp/logo.png"
                 alt="Gilded Roleplay Logo"
                 width={120}
                 height={120}

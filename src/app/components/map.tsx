@@ -120,7 +120,7 @@ export default function InteractiveMap() {
         style={{ transform: `translate(${pos.current.x}px, ${pos.current.y}px) scale(${scale})`, transformOrigin: "top left" }}
       >
         <Image
-          src="./map.jpg"
+          src="/map.jpg"
           alt="Map"
           layout="fill"
           objectFit="contain"

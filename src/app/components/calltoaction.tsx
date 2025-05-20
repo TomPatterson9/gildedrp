@@ -11,7 +11,7 @@ const CallToAction = () => {
           <span className="bg-black text-gold px-5 py-2 rounded hover:bg-gray-900 transition">Get Started</span>
         </Link>
         <Link href="/discord">
-          <span className="border border-black px-5 py-2 rounded hover:bg-black hover:text-gold transition">Join Discord</span>
+          <span className="border border-black px-5 py-2 rounded hover:bg-black hover:text-gold transition">Join Discord today !</span>
         </Link>
       </div>
     </section>

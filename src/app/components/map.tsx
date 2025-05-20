@@ -2,6 +2,7 @@
 
 import Image from "next/image";
 import { useState, useRef, useEffect } from "react";
+const basePath = process.env.NEXT_PUBLIC_BASE_PATH || '';
 
 export default function InteractiveMap() {
   const [tooltip, setTooltip] = useState({ visible: false, name: "", owner: "", x: 0, y: 0 });
@@ -120,7 +121,7 @@ export default function InteractiveMap() {
         style={{ transform: `translate(${pos.current.x}px, ${pos.current.y}px) scale(${scale})`, transformOrigin: "top left" }}
       >
         <Image
-          src="/map.jpg"
+          src={`${basePath}/map.jpg`}
           alt="Map"
           layout="fill"
           objectFit="contain"

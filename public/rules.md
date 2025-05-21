@@ -250,7 +250,7 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 - Unrealistic Colors on Character Hair, Horse Hair, and Horse Tack that don't meet period guidelines are up for scrutiny.
 
 ​
-# Role Play Terms & Definitions:
+# Role Play Terms and Definitions:
 ## Harassment: 
 
 - No harassing other players; sexual or otherwise. Anything that leads to repeat aggressive pressure or borders on intimidation on an OOC level is against the server rules. This does not mean you can avoid RP conflicts or IC consequences, but if you have tried meaningful IC resolutions and still believe you are being harassed, open a ticket and staff can help advise or mediate.
@@ -951,7 +951,7 @@ Examples:
 # Miscellaneous Rules:
 
 
-# Law & Politics:
+# Law and Politics:
 
  
 - In all regions, characters cannot hold both a position in law/army and a government position. If elected or appointed the character is required to resign. A region is defined as the USA, Mexico, and Guarma. Jurisdictions within these regions would apply to this rule as well.
@@ -1084,7 +1084,7 @@ Examples:
 
 
  
-# BUILDING & CAMP RULES
+# BUILDING and CAMP RULES
 
 - The Camping Authority will remove non-compliant camps or builds without warning.
 

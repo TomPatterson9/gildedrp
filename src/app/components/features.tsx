@@ -3,7 +3,7 @@
 const features = [
   {
     title: "Immersive World",
-    description: "Custom-built maps, unique storylines, and deep lore.",
+    description: "Fully custom scripts, maps, and assets for a unique experience.",
   },
   {
     title: "Community Driven",

@@ -1,5 +1,5 @@
 # Basic Rules:
-# Terms Of Service:
+## Terms Of Service:
 
 - Personal insults and/or verbal attacks outside of specific role play situations and all forms of harassment are prohibited and will result in a ban.
 
@@ -15,7 +15,7 @@
 #### This ruleset is hosted on github and has a changelog here:
 https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
-# Community Policies:
+## Community Policies:
 
 
 - Should disagreements or instances of rule-breaking occur in the game, all members should attempt to roleplay through them without breaking character. Once the scene is completed, members may then send in reports to staff. If the issue is urgent and must be dealt with immediately, such as a Zero Tolerance rule break, you may open a ticket to report the issue.
@@ -31,7 +31,7 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 - Suicide roleplay or self-harm roleplay of any kind is not tolerated and will result in a permanent ban.
 
 
-# General Rules: 
+## General Rules: 
 
 - Our ruleset is intended to be clear while encouraging roleplay between players. If you suspect a rule to have been broken mid-scene, wait until the scene concludes then open a ticket.
 
@@ -87,7 +87,7 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 - Roleplay over Rules - This means that you should maintain your RP to be as immersive as possible even in the face of rule breaks
 
 
-## Character Guidelines
+# Character Guidelines
 
 - Characters must be 18+, Players must be 18+.
  
@@ -1093,7 +1093,7 @@ Examples:
 
 - It is YOUR responsibility to follow these guidelines.
 
-# 1. General Camp & Build Rules
+1. General Camp & Build Rules
 
 - Camps must fit into the Red Dead world: no treehouses, platform structures, or excessive builds.
 
@@ -1106,7 +1106,7 @@ Examples:
 - No using objects to fake a roof, wall, or block tent entrances.
 
 
-# 2. Restricted & Prohibited Build Areas
+2. Restricted & Prohibited Build Areas
 
 - DO NOT camp or build in Wildlife Preserves, Historic Sites, or Legendary Hunt Areas.
 
@@ -1119,7 +1119,7 @@ Examples:
 - DO NOT block public roads, pathways, entrances, exits, or access to any public or private area.
 
 
-# 3. Camp Limits & Item Restrictions
+3. Camp Limits & Item Restrictions
 
     # Camps must remain simple, consisting of:
     - Tents (maximum of 4 per camp)
@@ -1139,7 +1139,7 @@ Examples:
     - Beams can only support the underside of a foundation, NOT be placed above it.
 
 
-# 4. Storage & Lighting Limits
+4. Storage & Lighting Limits
 
 - Maximum 4 storage items per camp/property. Use Space Bar storage for businesses or private property if more is needed.
 
@@ -1150,7 +1150,7 @@ Examples:
 - Business owners may place up to 4 storage items inside their business.
 
 
-# 5. Placement & Space Rules
+5. Placement & Space Rules
 
 - Camps must be spaced out, if an area is occupied, move elsewhere.
 
@@ -1159,7 +1159,7 @@ Examples:
 - Trespass signs are for private property only and cannot be used to claim a campground.
 
 
-# 6. Enforcement & Removal
+6. Enforcement & Removal
 
 - Unauthorized builds will be removed without warning.
 

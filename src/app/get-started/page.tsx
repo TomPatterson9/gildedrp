@@ -7,7 +7,7 @@ const GettingStarted = () => {
   return (
     <>
       <NavBar />
-      <div className="max-w-4xl mx-auto px-4 py-12 text-amber-100">
+      <div className="max-w-4xl rounded bg-white/5  mx-auto px-4 py-12 text-amber-100">
         <h1 className="text-4xl font-bold text-yellow-400 text-center mb-2">Getting Started</h1>
         <p className="text-center text-sm text-amber-300 mb-10">
           How to join and play on Gilded RP — everything you need to know

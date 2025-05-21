@@ -29,7 +29,7 @@ const RulesPage = () => {
         if (node.type === 'heading' && node.depth === 1) {
           const heading = node.children[0]
           if (heading.type === 'text') {
-            let headingText = heading.value.substring(0,heading.value.length - 1)
+            const headingText = heading.value.substring(0,heading.value.length - 1)
             h1s.push(headingText)
           }
         }

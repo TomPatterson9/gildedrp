@@ -17,7 +17,7 @@ const RulesPage = () => {
   useEffect(() => {
     const fetchMarkdown = async () => {
       const res = await fetch(
-        'https://raw.githubusercontent.com/Inepsa/Gilded-RP-Rules/refs/heads/main/Gilded%20RP%20Rules.md'
+        'https://raw.githubusercontent.com/TomPatterson9/gildedrp/refs/heads/master/public/rules.md' //'https://raw.githubusercontent.com/Inepsa/Gilded-RP-Rules/refs/heads/main/Gilded%20RP%20Rules.md'
       );
       const text = await res.text();
       setMarkdown(text);

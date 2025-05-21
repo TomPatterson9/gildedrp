@@ -1,4 +1,3 @@
-# Basic Rules:
 ## Terms Of Service:
 
 - Personal insults and/or verbal attacks outside of specific role play situations and all forms of harassment are prohibited and will result in a ban.
@@ -175,7 +174,7 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
  
 # Voice ID:
-# Voice Identification Restrictions:
+## Voice Identification Restrictions:
 
 
 - When a player is wearing a face covering, you are not allowed to identify them using their voice alone. The mask must be removed to reveal their face for voice identification to be valid.
@@ -187,7 +186,7 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 - Always respect a player's identity claims, even if you have suspicions otherwise.
  
 
-# Mask Usage Rules:
+## Mask Usage Rules:
 
 - Masks used for criminal activities should only be worn when intending to commit crimes or during large-scale criminal activities such as store and bank robberies, or other law-alerting actions.
 
@@ -198,7 +197,7 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 - If you wear a mask that is a significant part of your character's identity, you open yourself up to being identified by that mask. This means other players can recognize your character through this distinctive mask.
  
 
-# Multiple Characters Consideration:
+## Multiple Characters Consideration:
 
 - If a player is unmasked and insists they are not the person you think they are, respect their claim and move on.
  
@@ -206,7 +205,7 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 - Keep in mind that not all players can change their voice. Players may want to roleplay multiple characters using the same voice. Respect their choice to portray different characters even if the voice sounds familiar.
  
 
-# Historical Context:
+## Historical Context:
 
 - Consider the historical setting of the game. Most criminals in the 1900s sought infamy rather than anonymity. This should be reflected in the roleplay dynamics regarding masks and identification.
 
@@ -252,7 +251,7 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
 ​
 # Role Play Terms & Definitions:
-# Harassment: 
+## Harassment: 
 
 - No harassing other players; sexual or otherwise. Anything that leads to repeat aggressive pressure or borders on intimidation on an OOC level is against the server rules. This does not mean you can avoid RP conflicts or IC consequences, but if you have tried meaningful IC resolutions and still believe you are being harassed, open a ticket and staff can help advise or mediate.
 
@@ -311,7 +310,7 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 - Item names and descriptions are out-of-character information unless explicitly stated as visible in game. Only use information your character would realistically be able to see or read.
  
 
-# Example:
+## Example:
 
 - You pick up a "Personal Cookbook"
 
@@ -329,7 +328,7 @@ Exception: If the description mentions visible text or enscriptions (e.g., "Jane
 
  
 
-# Exploiting:
+## Exploiting:
 
 - The use of in-game exploits to gain advantages over other players or to give your character advantages is strictly prohibited.
 
@@ -372,7 +371,7 @@ Exception: If the description mentions visible text or enscriptions (e.g., "Jane
  
 # Hostile Roleplay Rules:
 
-# Random Deathmatch (RDM):
+## Random Deathmatch (RDM):
 
 - Random Deathmatch Consists of any intentional hostile action against a player or NPC (Non-Player Character) that is started without verbal interaction and/or roleplay buildup beforehand.
 
@@ -389,7 +388,7 @@ Here are some examples of RDM or Random DeathMatch:
 
  
 
-# Best practices for avoiding RDM:
+## Best practices for avoiding RDM:
 
 - Create a scene via roleplay prior to any violence being committed, and extend vocal roleplay as much as is reasonable for the scene. This means you should be having some sort of conversation prior to any weapons being fired.
  
@@ -449,7 +448,7 @@ Here are some examples of RDM or Random DeathMatch:
 ​
 # Green Zones:
 
-# Law Offices:
+## Law Offices:
  
 
 - You may not commit any form of criminal or violent RolePlay inside a law office during an arrest procedure.
@@ -457,7 +456,7 @@ Here are some examples of RDM or Random DeathMatch:
 
 - This may not be used as a “shield” for law - if an active scene is going on and the sheriff runs inside for cover during a chase etc - this voids the safe zone.
 
-# Doctor Office:
+## Doctor Office:
 
 - You may not commit any form of criminal or violent Roleplay inside a doctor's office during a Medical RP scenario.
 
@@ -466,7 +465,7 @@ Here are some examples of RDM or Random DeathMatch:
 
  
 # Criminal Activity / Robberies:
-# In Character Consequences:
+## In Character Consequences:
 
 - Remand can hold you in jail for multiple days at a time but requires a serious amount of crime like anarchy charges before you obtain one
 
@@ -480,7 +479,7 @@ Here are some examples of RDM or Random DeathMatch:
 - Escaping Sisika grants an automatic wanted status and means being caught will grant a remand
  
 
-# Ropes/Bindings:
+## Ropes/Bindings:
 
 - Ropes and Bindings are powerful tools in roleplay. Players using tools to restrain others, and those properly restrained should abide by the restrictions presented here.
 
@@ -516,7 +515,7 @@ Failure to comply is a direct violation of the Voice ID rule and constitutes pow
 - After a crime has been committed, you can change your clothes one time within 1 hour of said crime.
 
 
-# Player Robberies:
+## Player Robberies:
  
 
 - You cannot rob and kill. Pick one or the other! This includes robbing that player's horse or wagons.
@@ -571,7 +570,7 @@ Examples:
 - You cannot chain rob players over and over. Robberies should include RP for both sides. Repeated, low-tier robberies within 1 hour of each other will be considered chain robbing.
 
  
-# Train Robberies:
+## Train Robberies:
 
 - Train drivers are obliged to stop the train if a wagon or ambush is placed clearly on the track
 
@@ -582,7 +581,7 @@ Examples:
 - The Security Team employed by the train company should be the group protecting the train from being robbed but can pull from passengers to make a full 6 man if needed
 
 ​
-# Prison Break/Prison Transport Guidelines:
+## Prison Break/Prison Transport Guidelines:
 
 ​
 - When breaking someone from prison or a transport, your group should not exceed the limit of 6 including those you are breaking free. Unless the people you are breaking free remain non-combatants the entire time you have more than 6 in your group
@@ -591,7 +590,7 @@ Examples:
 - Sisika prison break attempts with larger groups can be approved by Admin.
  
 
-# Group Robbery Limits:
+## Group Robbery Limits:
 
 
 -You (or your gang) can commit a “Bank Robbery”, or a “Doctor’s Office Robbery” 7 times a week, 1/day.
@@ -606,7 +605,7 @@ Examples:
 - You (or your gang) can rob a house multiple times per day, with a 2 hour cooldown.
 
 
-# Underground Hideouts:
+## Underground Hideouts:
 
 ​
 - Criminals raiding other hideouts should do so after there has been significant rp leading to a raid. You should know who you're raiding and have a purpose, not just blindly knocking on doors hoping for loot. Stake them out, look for patterns, learn what they're doing with it. Have some scenes before the raid, build tension, don't just hit them to hit them.
@@ -633,7 +632,7 @@ Examples:
 - Non-whitelisted gangs and groups can own 1 hideout, whitelisted gangs can have two.​ Whitelisted gangs can pick the location of their second hideout by making a ticket
  
 ​
-# Wagon Robberies:
+## Wagon Robberies:
  
 ​
 - You must RP with the person driving the wagon to rob it, dont just rob wagons sitting around without providing RP
@@ -799,7 +798,7 @@ Examples:
 
 ​
 # Medical Rules:
-# Injuries and Alerts:
+## Injuries and Alerts:
 
 - Injuries are common after conflict, and if you are knocked unconscious, calling a doctor may be necessary. Using /alertdoctor sends out a proximity alert to the closest doctors near you.
 
@@ -840,12 +839,12 @@ Examples:
 - Players that are down for a period exceeding 30 minutes within an active scene where doctors, law or other medical practitioners are on scene and not reviving you or providing full medical treatment are allowed to revive. All usual New Life Rules still apply.
  
 
-# Injury Guidelines:
+## Injury Guidelines:
 
 - As a helpful guide to assist with Role Playing injuries to varying magnitudes, we have provided the following table for day/time conversions between IRL and Server Days.
 
  
-# Time/Day Converter for County Days:
+## Time/Day Converter for County Days:
 
 1 Day IC = 60 Minutes IRL
 
@@ -853,12 +852,12 @@ Examples:
 
  
 
-# Private Practice Doctors:
+## Private Practice Doctors:
 
 - All distribution of revive medication and smelling salts must be documented in the proper channels. There are no private sales of these meds, and none are given for free. It is for server health that it is tracked. Any violation of this will result in OOC consequences, as well as Roleplay-oriented IC consequences.
 
  
-# Outlaw Doctors:
+## Outlaw Doctors:
 
 - Outlaw doctors can rob cash or one item, up to a half stack, from a player they provide treatment to, are in a medical scene with, or revive. This is allowed even within the robbing cooldown by an outlaw doctor only. All other standard robbery rules still apply. This is how outlaw doctors get paid.
 
@@ -875,12 +874,12 @@ Examples:
 - Should the patient be knocked unconscious after the Outlaw Doctor has revived them once already, the scene has concluded. No repeat revives are allowed, even in the event of NVL after treatment. Leave the body, or dump
 
  
-# Pregnancy RP and Aging:
+## Pregnancy RP and Aging:
 
 - Every aspect of pregnancy and family RP needs to be clearly agreed upon by both parents involved and consented to before any RP involving Pregnancy happens. This means the length of time they wish to RP it out, the number of children, etc.
 
 ​
-# Players interested in Roleplaying a Pregnancy must abide by the following guidelines:
+## Players interested in Roleplaying a Pregnancy must abide by the following guidelines:
 
 - Pregnancy has a minimum duration of 3 Weeks. Do not roleplay pregnancy loss. 
 
@@ -926,7 +925,7 @@ Examples:
 - 12 v 12 is allowed only when a ticket with staff is made and approved with both party leaders law vs gang or gang vs gang and staff.
 
  
-# Gang Strikes:
+## Gang Strikes:
 
 - Every gang is limited to 3 active gang strikes. After receiving 3 gang strikes, a gang will lose all gang privileges, such as:
  
@@ -1047,7 +1046,7 @@ Examples:
 
 
 # Gilded RP Animal PED Rules:
-# General rules:
+## General rules:
 
 
 - You must act as your chosen PED animal would realistically behave. Domesticated animals will be more willing to be around humans, wild animals will be afraid of almost all humans.
@@ -1065,7 +1064,7 @@ Examples:
 - Rabies and other animal diseases must have consent
 
 
-# Ped Combat rules:
+## Ped Combat rules:
 
 - You cannot attack unprovoked, that is still considered RDM. Ensure that there is adequate RP beforehand, for example a dog would growl and bark, a cat would hiss and puff its tail. There are physical things you can /do to show warning of an attack.
 
@@ -1073,7 +1072,7 @@ Examples:
 - If cornered/threatened, you may attack ONCE and then retreat. You cannot attack again for a minimum of 30 seconds.
 
 
-# Additional Law Dog rules:
+## Additional Law Dog rules:
 
 - Only one Lawdog can be involved in a scene.
 
@@ -1121,7 +1120,7 @@ Examples:
 
 3. Camp Limits & Item Restrictions
 
-    # Camps must remain simple, consisting of:
+     **Camps must remain simple, consisting of:**
     - Tents (maximum of 4 per camp)
 
     - Basic camp-appropriate furniture (e.g., cots, campfire, chairs/benches)

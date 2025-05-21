@@ -17,7 +17,6 @@ const Navbar = () => {
   ]
 
   const rightLinks = [
-    { name: 'Whitelist Application', href: '/whitelist' },
     { name: 'Suggestions', href: '/suggestions' },
     { name: 'More', href: '/more' },
   ]

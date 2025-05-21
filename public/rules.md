@@ -1,4 +1,4 @@
-## Terms Of Service:
+## Terms Of Service
 
 - Personal insults and/or verbal attacks outside of specific role play situations and all forms of harassment are prohibited and will result in a ban.
 
@@ -11,10 +11,10 @@
 
 *Scroll down to the bottom to view a video of someone reading the rules to you*
 
-#### This ruleset is hosted on github and has a changelog here:
-https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
+#### This ruleset is hosted on github and has a changelog here
+https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
-## Community Policies:
+## Community Policies
 
 
 - Should disagreements or instances of rule-breaking occur in the game, all members should attempt to roleplay through them without breaking character. Once the scene is completed, members may then send in reports to staff. If the issue is urgent and must be dealt with immediately, such as a Zero Tolerance rule break, you may open a ticket to report the issue.
@@ -30,7 +30,7 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 - Suicide roleplay or self-harm roleplay of any kind is not tolerated and will result in a permanent ban.
 
 
-## General Rules: 
+## General Rules 
 
 - Our ruleset is intended to be clear while encouraging roleplay between players. If you suspect a rule to have been broken mid-scene, wait until the scene concludes then open a ticket.
 
@@ -44,13 +44,13 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
 
 
-# Roleplay over Gunplay:
+# Roleplay over Gunplay
 
 ## Low-Tier Initiation is Considered RDM
 
 - Any "low-tier initiation"—defined as shooting firearms or using weapons with force without meaningful dialogue or interaction—will be classified as RDM (Random Deathmatch).
 
-## Examples of Low-Tier Initiation (RDM):
+## Examples of Low-Tier Initiation (RDM)
 
 --A player walks up to someone and shoots them without prior roleplay.
 
@@ -64,7 +64,7 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 - A group ambushes another with weapons and opens fire without any verbal warning or attempt at roleplay.
 
 
-## What Is NOT Considered RDM:
+## What Is NOT Considered RDM
 
 - A player draws their gun and aims it at another in a robbery, giving clear demands (e.g., "Hands up and don’t try anything, or you’ll regret it.").
 
@@ -78,7 +78,7 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 - A player shoots in self-defense after another character threatens or initiates violence against them first, only when there is opportunity to do so (guns are lowered).
 
 
-## Clarification on Gunplay:
+## Clarification on Gunplay
 
 - Gunplay should not be the first method of conflict resolution. Characters should attempt meaningful roleplay interactions before resorting to violence, ensuring depth in character interactions and storytelling.
 
@@ -103,9 +103,9 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 - If you intend to engage in hostile RP (eg. robbing) it is HIGHLY RECOMMENDED that you record using Medal or some other platform in case your scene becomes involved in a ticket with a rule break in question.
 
  
-# Discord Rules:
+# Discord Rules
 
-- Abide by the Discord TOS: https://discord.com/terms
+- Abide by the Discord TOS https//discord.com/terms
 
 
 - BE KIND to staff and to each other in Discord and in Tickets.
@@ -126,7 +126,7 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 - Players may disagree with staff, but MUST respect decisions when they are made and conduct conversation in a manner that shows respect.
 
  
-# Zero Tolerance Rules: 
+# Zero Tolerance Rules 
 
 - No coordinating IC events OOC. This can all be done IC. ANYTHING that would persuade your actions IC, including where you go, who you meet up with, what you are preparing to do is META.
 
@@ -155,7 +155,7 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 - Using macros to fish, mine, craft, or anything else while AFK, or even while IC is powergaming. Do not do this. 
 
  
-# Communication Standards:
+# Communication Standards
 
  
 - We are an English-speaking server, you must be able to speak English to play here.
@@ -173,8 +173,8 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 - "Mute" players who wish to engage in hostile roleplay must have someone else verbally initiate a conflict or a robbery for them. They should also present hostile intent with emotes, /do commands, and other methods to show rising tension.
 
  
-# Voice ID:
-## Voice Identification Restrictions:
+# Voice ID
+## Voice Identification Restrictions
 
 
 - When a player is wearing a face covering, you are not allowed to identify them using their voice alone. The mask must be removed to reveal their face for voice identification to be valid.
@@ -186,7 +186,7 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 - Always respect a player's identity claims, even if you have suspicions otherwise.
  
 
-## Mask Usage Rules:
+## Mask Usage Rules
 
 - Masks used for criminal activities should only be worn when intending to commit crimes or during large-scale criminal activities such as store and bank robberies, or other law-alerting actions.
 
@@ -197,7 +197,7 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 - If you wear a mask that is a significant part of your character's identity, you open yourself up to being identified by that mask. This means other players can recognize your character through this distinctive mask.
  
 
-## Multiple Characters Consideration:
+## Multiple Characters Consideration
 
 - If a player is unmasked and insists they are not the person you think they are, respect their claim and move on.
  
@@ -205,12 +205,12 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 - Keep in mind that not all players can change their voice. Players may want to roleplay multiple characters using the same voice. Respect their choice to portray different characters even if the voice sounds familiar.
  
 
-## Historical Context:
+## Historical Context
 
 - Consider the historical setting of the game. Most criminals in the 1900s sought infamy rather than anonymity. This should be reflected in the roleplay dynamics regarding masks and identification.
 
  
-# Submitting a Ticket:
+# Submitting a Ticket
 
 - Upon review of tickets, staff will take into consideration all accounts and weigh the effect it has on future roleplay. All conclusions are at staff's discretion. 
 
@@ -250,8 +250,8 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 - Unrealistic Colors on Character Hair, Horse Hair, and Horse Tack that don't meet period guidelines are up for scrutiny.
 
 ​
-# Role Play Terms and Definitions:
-## Harassment: 
+# Role Play Terms and Definitions
+## Harassment 
 
 - No harassing other players; sexual or otherwise. Anything that leads to repeat aggressive pressure or borders on intimidation on an OOC level is against the server rules. This does not mean you can avoid RP conflicts or IC consequences, but if you have tried meaningful IC resolutions and still believe you are being harassed, open a ticket and staff can help advise or mediate.
 
@@ -259,7 +259,7 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 - If a ticket is shown to have been opened with malicious intent towards another party and no rule breaks are found, this will be regarded as a notable offense by staff, at their discretion.
 
  
-# RP Bleed:
+# RP Bleed
 
 - RP Bleed is defined as taking issues, disagreements, or problems from inside RP to the Outside World, or from the Outside World into RP.
 
@@ -269,7 +269,7 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 ​
 # Fail RP
 
-- FailRP is defined as doing something unrealistic or rule breaking. Examples include but are not limited to:
+- FailRP is defined as doing something unrealistic or rule breaking. Examples include but are not limited to
 
 
 - Shooting limbs off a downed player. 
@@ -290,7 +290,7 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 - Supernatural RP. Although this exists through rumors around 1901, situations of this nature are often disproven or explained away through illnesses, mental states, and so on.
  
 ​
-# Metagaming:
+# Metagaming
 
 - Metagaming is defined as using information in the game that you have not learned by playing that character, for the benefit of yourself, your character, or others in your group.
 
@@ -310,12 +310,12 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 - Item names and descriptions are out-of-character information unless explicitly stated as visible in game. Only use information your character would realistically be able to see or read.
  
 
-## Example:
+## Example
 
 - You pick up a "Personal Cookbook"
 
 
-- Description: "Jane's personal cookbook"
+- Description "Jane's personal cookbook"
 
 
 - Your character only knows it's a cookbook, not that it belongs to Jane
@@ -324,11 +324,11 @@ https://github.com/Inepsa/Gilded-RP-Rules/commits/main/
 - You can describe its appearance (color, image) but not its ownership
 
 
-Exception: If the description mentions visible text or enscriptions (e.g., "Jane's cookbook written on the front"), you can use that information in-character.
+Exception If the description mentions visible text or enscriptions (e.g., "Jane's cookbook written on the front"), you can use that information in-character.
 
  
 
-## Exploiting:
+## Exploiting
 
 - The use of in-game exploits to gain advantages over other players or to give your character advantages is strictly prohibited.
 
@@ -339,9 +339,9 @@ Exception: If the description mentions visible text or enscriptions (e.g., "Jane
 - If you find a bug or something that is considered an exploit, bring it to the staff's attention immediately. Not reporting this is grounds for a ban.
 
  
-# Powergaming:
+# Powergaming
 
-- Powergaming is defined as the act of always having to win through any means or at any cost. Powergaming includes, but is not limited to:
+- Powergaming is defined as the act of always having to win through any means or at any cost. Powergaming includes, but is not limited to
 
 
 - Putting a camp storage or chest right next to where you are mining or farming can be powergaming if you “teleport” goods by moving your camp and skipping the use of a wagon.
@@ -369,14 +369,14 @@ Exception: If the description mentions visible text or enscriptions (e.g., "Jane
 - Fake deaths must be approved by the admin team through a ticket
 
  
-# Hostile Roleplay Rules:
+# Hostile Roleplay Rules
 
-## Random Deathmatch (RDM):
+## Random Deathmatch (RDM)
 
 - Random Deathmatch Consists of any intentional hostile action against a player or NPC (Non-Player Character) that is started without verbal interaction and/or roleplay buildup beforehand.
 
 
-Here are some examples of RDM or Random DeathMatch:
+Here are some examples of RDM or Random DeathMatch
 
 - Randomly roping/hogtying, shooting at, stabbing and/or hitting players
 
@@ -388,7 +388,7 @@ Here are some examples of RDM or Random DeathMatch:
 
  
 
-## Best practices for avoiding RDM:
+## Best practices for avoiding RDM
 
 - Create a scene via roleplay prior to any violence being committed, and extend vocal roleplay as much as is reasonable for the scene. This means you should be having some sort of conversation prior to any weapons being fired.
  
@@ -396,14 +396,14 @@ Here are some examples of RDM or Random DeathMatch:
 - Give your opponent a chance to respond verbally and prepare for their own next move
  
 
-- Find ways to indicate imminent violence, especially if your weapon is not already drawn and pointed. Some examples of this include: using the hand on holster stance, using /me, verbally indicating you may be planning on attacking, moving into cover, etc
+- Find ways to indicate imminent violence, especially if your weapon is not already drawn and pointed. Some examples of this include using the hand on holster stance, using /me, verbally indicating you may be planning on attacking, moving into cover, etc
  
 
 - If you have a reason to harm an NPC, roleplay the scene even if no other players are present in the immediate vicinity. This should only be done with the intention of creating roleplay, and as stated above, will likely come with in-character consequences.
 
  
 
-# Fast Travel Locations:
+# Fast Travel Locations
 
 - There are numerous mechanics that "teleport" you to another location as a form of fast travel. (Eg. Guarma Boat, Casino Boat, Apartments, and some Businesses).
 
@@ -411,7 +411,7 @@ Here are some examples of RDM or Random DeathMatch:
 - These locations should not be directly camped, instead, pick a location to intercept travel to and from these locations that allows the opposing party a chance to set themselves up and get on their feet.
 
 
-# General Hostility Rules:
+# General Hostility Rules
 
 - Holding someone up or immediately attacking someone out of one of these exits is strictly prohibited. Allow any party exiting the ability for counterplay (to gain cover or re-enter/exit the building), as per the RDM Rules and Guidelines.
 
@@ -446,9 +446,9 @@ Here are some examples of RDM or Random DeathMatch:
 - In Hostile RP, leaving Line of Sight on your victim or aggressor for 5 minutes means the scene is considered over and proper Roleplay engagement must commence to create a new scene.
 
 ​
-# Green Zones:
+# Green Zones
 
-## Law Offices:
+## Law Offices
  
 
 - You may not commit any form of criminal or violent RolePlay inside a law office during an arrest procedure.
@@ -456,7 +456,7 @@ Here are some examples of RDM or Random DeathMatch:
 
 - This may not be used as a “shield” for law - if an active scene is going on and the sheriff runs inside for cover during a chase etc - this voids the safe zone.
 
-## Doctor Office:
+## Doctor Office
 
 - You may not commit any form of criminal or violent Roleplay inside a doctor's office during a Medical RP scenario.
 
@@ -464,8 +464,8 @@ Here are some examples of RDM or Random DeathMatch:
 - This may not be used as a “shield” for doctors - if an active scene is going on and the doctor runs inside for cover during a scene, etc. - this voids the safe zone.
 
  
-# Criminal Activity / Robberies:
-## In Character Consequences:
+# Criminal Activity / Robberies
+## In Character Consequences
 
 - Remand can hold you in jail for multiple days at a time but requires a serious amount of crime like anarchy charges before you obtain one
 
@@ -479,7 +479,7 @@ Here are some examples of RDM or Random DeathMatch:
 - Escaping Sisika grants an automatic wanted status and means being caught will grant a remand
  
 
-## Ropes/Bindings:
+## Ropes/Bindings
 
 - Ropes and Bindings are powerful tools in roleplay. Players using tools to restrain others, and those properly restrained should abide by the restrictions presented here.
 
@@ -497,7 +497,7 @@ Here are some examples of RDM or Random DeathMatch:
 - You can't break free from a hogtie unless loosened or left for 5 minutes alone and unattended.
 
 
-# Criminal Activity / Robberies Cont:
+# Criminal Activity / Robberies Cont
 
 - Criminals must not wear completely black clothing with no identifiable features while committing crimes. They must have at least two clearly distinguishable features, such as a buckle, bandana, distinct clothing item, firearm, horse, or saddle.
 
@@ -515,7 +515,7 @@ Failure to comply is a direct violation of the Voice ID rule and constitutes pow
 - After a crime has been committed, you can change your clothes one time within 1 hour of said crime.
 
 
-## Player Robberies:
+## Player Robberies
  
 
 - You cannot rob and kill. Pick one or the other! This includes robbing that player's horse or wagons.
@@ -536,7 +536,7 @@ Failure to comply is a direct violation of the Voice ID rule and constitutes pow
 - You can have one sidearm and one longarm protected from being robbed, carrying any more than that and it opens you up to being robbed of all weapons.
 
 
-Examples: 
+Examples 
 
  - Carry a Carcano and a Revolver and those guns can't be robbed. 
  - Carry a Carcano and two revolvers and all weapons can be robbed.
@@ -570,7 +570,7 @@ Examples:
 - You cannot chain rob players over and over. Robberies should include RP for both sides. Repeated, low-tier robberies within 1 hour of each other will be considered chain robbing.
 
  
-## Train Robberies:
+## Train Robberies
 
 - Train drivers are obliged to stop the train if a wagon or ambush is placed clearly on the track
 
@@ -581,7 +581,7 @@ Examples:
 - The Security Team employed by the train company should be the group protecting the train from being robbed but can pull from passengers to make a full 6 man if needed
 
 ​
-## Prison Break/Prison Transport Guidelines:
+## Prison Break/Prison Transport Guidelines
 
 ​
 - When breaking someone from prison or a transport, your group should not exceed the limit of 6 including those you are breaking free. Unless the people you are breaking free remain non-combatants the entire time you have more than 6 in your group
@@ -590,7 +590,7 @@ Examples:
 - Sisika prison break attempts with larger groups can be approved by Admin.
  
 
-## Group Robbery Limits:
+## Group Robbery Limits
 
 
 -You (or your gang) can commit a “Bank Robbery”, or a “Doctor’s Office Robbery” 7 times a week, 1/day.
@@ -605,7 +605,7 @@ Examples:
 - You (or your gang) can rob a house multiple times per day, with a 2 hour cooldown.
 
 
-## Underground Hideouts:
+## Underground Hideouts
 
 ​
 - Criminals raiding other hideouts should do so after there has been significant rp leading to a raid. You should know who you're raiding and have a purpose, not just blindly knocking on doors hoping for loot. Stake them out, look for patterns, learn what they're doing with it. Have some scenes before the raid, build tension, don't just hit them to hit them.
@@ -632,7 +632,7 @@ Examples:
 - Non-whitelisted gangs and groups can own 1 hideout, whitelisted gangs can have two.​ Whitelisted gangs can pick the location of their second hideout by making a ticket
  
 ​
-## Wagon Robberies:
+## Wagon Robberies
  
 ​
 - You must RP with the person driving the wagon to rob it, dont just rob wagons sitting around without providing RP
@@ -660,7 +660,7 @@ Examples:
 - Victims must wait 1 hour after a scene ends, before seeking interaction or revenge of any sort on their aggressors.
 
 ​
-# Vigilantism:
+# Vigilantism
 
 - Vigilantism is defined as entering a hostile situation to help or save someone in trouble, while not being lawfully permitted to do so.
 
@@ -671,7 +671,7 @@ Examples:
 - Helping someone in the wild is doable, but comes with risk. 
 
  
-# Body Dumping:
+# Body Dumping
 
 
 - Players are prohibited from dumping bodies within water.
@@ -683,7 +683,7 @@ Examples:
 - You cannot camp a body waiting for a doctor to show up.
 
 
-# Body Camping:
+# Body Camping
 
 - Body Camping is the act of staying near a body in order to keep them forcefully locked in a scene and unable to call a doctor or revive after their timer is up.
  
@@ -691,7 +691,7 @@ Examples:
 - Once you're out of sight of the body from the downed player's perspective, or farther than yelling distance away, they have the right to respawn or call a doctor. Do not leave and come back.
 
 ​
-# Permanent Harm in Torture RP:
+# Permanent Harm in Torture RP
 
 - You must get consent from the party you plan to torture & cause permanent physical harm to. Please get consent using /do. If you torture someone this way, you are automatically consenting to be tortured in the future by that same person, not everyone.
 
@@ -702,14 +702,14 @@ Examples:
 - The person being tortured gets to pick their wounds.
 
 
-- Example: “/do Clarence holds his knife to Jim’s eye, clearly wanting to cut it out, just waiting for the right moment.” In this example Clarence would need to wait for a sign from Jim to move forward.
+- Example “/do Clarence holds his knife to Jim’s eye, clearly wanting to cut it out, just waiting for the right moment.” In this example Clarence would need to wait for a sign from Jim to move forward.
 
 
 - Without a /do in return torture cannot proceed. This automatically logs this on our end
  
 
  
-# Corruption:
+# Corruption
 
 - Corruption within the DOJ and Marshals office is not allowed.
 
@@ -723,7 +723,7 @@ Examples:
 - Approval for corruption does not allow stealing from Law or Doctor Storages, or their business ledgers.
 
  
-# NLR (New Life Rule):
+# NLR (New Life Rule)
 
 - If you have to take a local doctor (respawning / pressing E) , then your memory of the situations that led to the events of your demise are wiped.
 
@@ -748,7 +748,7 @@ Examples:
 - Ambushing or Setting a Trap, so long as the Trap is in a logical location, like an Alley, a Secluded Space, or in the Wilds, is also allowed.
 
  
-# Combat Logging:
+# Combat Logging
 
 - Logging off in the middle of any scene is not allowed.
 
@@ -759,12 +759,12 @@ Examples:
 - Players must stay logged in for at least 15 minutes after participating in any conflict RP. If you log out before, it will count as a combat log.
 
  
-# Alternate Characters:
+# Alternate Characters
 
 - Alternate Characters are extra characters a player can make in order to experience new stories and different aspects of the world. Characters should be unique from one another and are not allowed to be a direct relative to another character you already play. Alternate characters should strive to have unique stories that do not immediately connect with, or interact with groups or contacts of your other characters. Do not seek out the same stories, or people that your other characters already associate with, crossover in passing is acceptable, but being ingrained on multiple characters blurs the lines of RP and gives great risk to bleed.
  
 
-- When playing a law or criminal character, there is a cooldown with the following stipulations:
+- When playing a law or criminal character, there is a cooldown with the following stipulations
  
 
 - You cannot play as a Lawman, then log off and switch to your criminal without waiting 1 hr on your criminal before committing a crime.
@@ -797,8 +797,8 @@ Examples:
 - Do not make alternate or additional characters to further the RP or storyline of your other characters. Allow storylines to happen organically and gradually. 
 
 ​
-# Medical Rules:
-## Injuries and Alerts:
+# Medical Rules
+## Injuries and Alerts
 
 - Injuries are common after conflict, and if you are knocked unconscious, calling a doctor may be necessary. Using /alertdoctor sends out a proximity alert to the closest doctors near you.
 
@@ -839,12 +839,12 @@ Examples:
 - Players that are down for a period exceeding 30 minutes within an active scene where doctors, law or other medical practitioners are on scene and not reviving you or providing full medical treatment are allowed to revive. All usual New Life Rules still apply.
  
 
-## Injury Guidelines:
+## Injury Guidelines
 
 - As a helpful guide to assist with Role Playing injuries to varying magnitudes, we have provided the following table for day/time conversions between IRL and Server Days.
 
  
-## Time/Day Converter for County Days:
+## Time/Day Converter for County Days
 
 1 Day IC = 60 Minutes IRL
 
@@ -852,12 +852,12 @@ Examples:
 
  
 
-## Private Practice Doctors:
+## Private Practice Doctors
 
 - All distribution of revive medication and smelling salts must be documented in the proper channels. There are no private sales of these meds, and none are given for free. It is for server health that it is tracked. Any violation of this will result in OOC consequences, as well as Roleplay-oriented IC consequences.
 
  
-## Outlaw Doctors:
+## Outlaw Doctors
 
 - Outlaw doctors can rob cash or one item, up to a half stack, from a player they provide treatment to, are in a medical scene with, or revive. This is allowed even within the robbing cooldown by an outlaw doctor only. All other standard robbery rules still apply. This is how outlaw doctors get paid.
 
@@ -874,12 +874,12 @@ Examples:
 - Should the patient be knocked unconscious after the Outlaw Doctor has revived them once already, the scene has concluded. No repeat revives are allowed, even in the event of NVL after treatment. Leave the body, or dump
 
  
-## Pregnancy RP and Aging:
+## Pregnancy RP and Aging
 
 - Every aspect of pregnancy and family RP needs to be clearly agreed upon by both parents involved and consented to before any RP involving Pregnancy happens. This means the length of time they wish to RP it out, the number of children, etc.
 
 ​
-## Players interested in Roleplaying a Pregnancy must abide by the following guidelines:
+## Players interested in Roleplaying a Pregnancy must abide by the following guidelines
 
 - Pregnancy has a minimum duration of 3 Weeks. Do not roleplay pregnancy loss. 
 
@@ -908,7 +908,7 @@ Examples:
 - Child murder/torture, or even threats of such, are never allowed even when still in the womb.
 
  
-# Gang Rules:
+# Gang Rules
 
 - Make your gang known to the staff if you want gang privileges via a ticket. Non-whitelisted gangs are limited to a maximum of 12 people.
 
@@ -925,9 +925,9 @@ Examples:
 - 12 v 12 is allowed only when a ticket with staff is made and approved with both party leaders law vs gang or gang vs gang and staff.
 
  
-## Gang Strikes:
+## Gang Strikes
 
-- Every gang is limited to 3 active gang strikes. After receiving 3 gang strikes, a gang will lose all gang privileges, such as:
+- Every gang is limited to 3 active gang strikes. After receiving 3 gang strikes, a gang will lose all gang privileges, such as
  
 
 - Their main hideout that they chose to defend with 12 players. 
@@ -948,16 +948,16 @@ Examples:
 - More than 5 total accumulated strikes = dissolvement of gang
 ​
  
-# Miscellaneous Rules:
+# Miscellaneous Rules
 
 
-# Law and Politics:
+# Law and Politics
 
  
 - In all regions, characters cannot hold both a position in law/army and a government position. If elected or appointed the character is required to resign. A region is defined as the USA, Mexico, and Guarma. Jurisdictions within these regions would apply to this rule as well.
 
 ​
-# Sisika Roleplay:
+# Sisika Roleplay
 
 - Do not break into Sisika to sell goods, perform jobs, or engage in similar activities. This is a maximum-security institution, and unannounced visitors will be treated as a serious security threat. Realistically, this would result in being shot or otherwise severely dealt with. This will be considered as a No Value for Life rulebreak.
 
@@ -965,7 +965,7 @@ Examples:
 - Attacking Guards or Lawmen within Sisika without justification—such as self-defense or a valid roleplay scenario—will also be considered an NVL rulebreak. Sisika is a high-security prison, and any unwarranted aggression against officials inside its grounds is treated as an extreme disregard for life.
 
 ​
-# Smuggling:
+# Smuggling
 
 - Smuggling only to happen at night, into the secret Dead Drop location.
 
@@ -979,7 +979,7 @@ Examples:
 - Chests and Storage hidden around Sisika will be destroyed, no questions asked.
 
 
-# Prison Breaks:
+# Prison Breaks
 
 - Prison breaks remain only approved via ticket.
 
@@ -991,7 +991,7 @@ Examples:
 
 ​
 
-# Businesses and Homes:
+# Businesses and Homes
 ​
 
 - Staff reserves the right to remove your business due to inactivity. Make a ticket if you are on an extended trip, or concerned regarding business repossession.
@@ -1030,23 +1030,23 @@ Examples:
 - Players are not allowed to have more than one character in the same line of work.
 
 
-# Tailor Mannequin Script Rules:
+# Tailor Mannequin Script Rules
 
 - The tailor mannequin script enhances roleplay by allowing tailors to craft outfits. Use must prioritize immersion, historical accuracy, and meaningful roleplay.
 
 - Tailors must ensure outfits are period-appropriate, non-offensive, and immersion-friendly. **Nudist, sexually explicit, or inappropriate clothing (per No NSFW policy) is banned from distribution.** Violations may lead to loss of script access or privileges.
 
-- **Niche Clothing:** Items like belly dancer attire or unusual pieces (e.g., turtle shells, bloodied suits) are restricted to characters with relevant historical/roleplay context and require staff approval. Misuse is punishable.
+- **Niche Clothing** Items like belly dancer attire or unusual pieces (e.g., turtle shells, bloodied suits) are restricted to characters with relevant historical/roleplay context and require staff approval. Misuse is punishable.
 
-- **Restricted Items:** Black KKK hoods, nudist/inappropriate attire, and extreme immersion-breaking items are prohibited. Other restricted pieces require staff approval via ticket for specific use.
+- **Restricted Items** Black KKK hoods, nudist/inappropriate attire, and extreme immersion-breaking items are prohibited. Other restricted pieces require staff approval via ticket for specific use.
 
-- **Access:** Script is job-locked to tailors; higher ranks may access niche items with approval. It supplements, not replaces, the existing crafting system for small items.
+- **Access** Script is job-locked to tailors; higher ranks may access niche items with approval. It supplements, not replaces, the existing crafting system for small items.
 
-- **Roleplay:** Mid-scene Outfit changes need IC justification. Excessive use without context is Fail RP.
+- **Roleplay** Mid-scene Outfit changes need IC justification. Excessive use without context is Fail RP.
 
 
-# Gilded RP Animal PED Rules:
-## General rules:
+# Gilded RP Animal PED Rules
+## General rules
 
 
 - You must act as your chosen PED animal would realistically behave. Domesticated animals will be more willing to be around humans, wild animals will be afraid of almost all humans.
@@ -1064,7 +1064,7 @@ Examples:
 - Rabies and other animal diseases must have consent
 
 
-## Ped Combat rules:
+## Ped Combat rules
 
 - You cannot attack unprovoked, that is still considered RDM. Ensure that there is adequate RP beforehand, for example a dog would growl and bark, a cat would hiss and puff its tail. There are physical things you can /do to show warning of an attack.
 
@@ -1072,7 +1072,7 @@ Examples:
 - If cornered/threatened, you may attack ONCE and then retreat. You cannot attack again for a minimum of 30 seconds.
 
 
-## Additional Law Dog rules:
+## Additional Law Dog rules
 
 - Only one Lawdog can be involved in a scene.
 
@@ -1094,9 +1094,9 @@ Examples:
 
 1. General Camp & Build Rules
 
-- Camps must fit into the Red Dead world: no treehouses, platform structures, or excessive builds.
+- Camps must fit into the Red Dead world no treehouses, platform structures, or excessive builds.
 
-- Camps should be simple and realistic: tents, basic camp decor, 4 storage items, and lighting. That is the limit.
+- Camps should be simple and realistic tents, basic camp decor, 4 storage items, and lighting. That is the limit.
 
 - One small foundation is allowed if needed for flat ground, not more than 1ft off the ground if absolutely necessary.
 
@@ -1120,7 +1120,7 @@ Examples:
 
 3. Camp Limits & Item Restrictions
 
-     **Camps must remain simple, consisting of:**
+     **Camps must remain simple, consisting of**
     - Tents (maximum of 4 per camp)
 
     - Basic camp-appropriate furniture (e.g., cots, campfire, chairs/benches)
@@ -1167,7 +1167,7 @@ Examples:
 - Items may be moved into a chest with a notice attached, but failure to act on the notice will result in demolition.
 
  
-# Appearance:
+# Appearance
 
 - You must use a realistic-looking appearance. 
 
@@ -1182,7 +1182,7 @@ Examples:
 - Do not change your hair and appearance drastically more than once per 24-hour period.
 
  
-# /Scene (Command):
+# /Scene (Command)
 
 - This command is to enhance scenes or provide RP to people who come into a location where something may have happened they cannot visually see. If needed, Staff will restrict this down. Please use it responsibly so we don't have to remove it.
 
@@ -1196,6 +1196,6 @@ Examples:
 - Keep the word count as low as possible! 
 
 ​
-# Erotic Roleplay and Consent:
+# Erotic Roleplay and Consent
 
 #### Keep it private!

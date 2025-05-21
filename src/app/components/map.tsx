@@ -9,10 +9,10 @@ export default function InteractiveMap() {
   const mapRef = useRef<HTMLDivElement>(null); // Explicitly typed as HTMLDivElement
   const containerRef = useRef<HTMLDivElement>(null); // Explicitly typed as HTMLDivElement
   const pos = useRef({ x: 0, y: 0, dx: 0, dy: 0, dragging: false });
-  const basePath = process.env.BASE_PATH || "";
+  const basePath = process.env.BASE_PATH || "/gildedrp";
   const blips = [
-    { top: "60%", left: "45%", name: "Valentine General Store", owner: "John Smith", icon: "/icons/store.png" },
-    { top: "55.8%", left: "53.9%", name: "Blackwater Honey", owner: "Claire Dupont", icon: "/icons/honey.png" },
+    { top: "60%", left: "45%", name: "Valentine General Store", owner: "John Smith", icon: basePath+ "/icons/store.png" },
+    { top: "55.8%", left: "53.9%", name: "Blackwater Honey", owner: "Claire Dupont", icon: basePath+ "/icons/honey.png" },
     { top: "48%", left: "40%", name: "Strawberry Butcher", owner: "Bill Turner" },
   ];
 
@@ -154,7 +154,7 @@ export default function InteractiveMap() {
         style={{ transform: `translate(${pos.current.x}px, ${pos.current.y}px) scale(${scale})`, transformOrigin: "top left" }}
       >
         <Image
-          src={`/map.jpg`}
+          src={basePath+`/map.jpg`}
           alt="Map"
           layout="fill"
           objectFit="contain"

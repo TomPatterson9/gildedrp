@@ -997,7 +997,7 @@ Examples
 - Staff reserves the right to remove your business due to inactivity. Make a ticket if you are on an extended trip, or concerned regarding business repossession.
  
 
-- If the business is inactive, or players have not logged in for a period of 3 weeks (21 days), staff will repossess your business, UNLESS you have submitted a ticket to explain your situation to staff regarding an extended absence.
+- If the business is inactive, or players have not logged in for a period of 3 weeks (31 days), staff will repossess your business, UNLESS you have submitted a ticket to explain your situation to staff regarding an extended absence.
  
 
 - Employees, and Criminals, cannot steal from business storages or ledgers.

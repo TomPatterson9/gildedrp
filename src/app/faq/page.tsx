@@ -26,6 +26,10 @@ const faqData: FaqItem[] = [
     question: 'Where can I find the rules?',
     answer: 'The full rules are available on the Rules page, accessible through the top navigation.',
   },
+  {
+    question: 'How do I take the whitelist quiz?',
+    answer: 'The quiz will pop up when you join the redm server for the first time. You will be prompted to answer a series of questions about the rules and server guidelines.',
+  },
 ];
 
 export default function FaqPage() {

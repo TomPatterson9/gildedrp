@@ -1,4 +1,3 @@
-# Frequently Asked Questions
 
 <details>
 <summary><strong>What is Gilded RP?</strong></summary>

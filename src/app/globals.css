@@ -37,3 +37,26 @@
 .custom-scrollbar::-webkit-scrollbar-thumb:hover {
   background-color: #92400e;
 }
+details {
+  margin-bottom: 1.25rem; /* spacing between FAQs */
+  border: 1px solid #444;
+  border-radius: 0.5rem;
+  background-color: #1c1c1c;
+  padding: 1rem;
+  transition: background-color 0.2s ease;
+}
+
+details[open] {
+  background-color: #2a2a2a;
+}
+
+summary {
+  font-weight: 600;
+  color: #facc15; /* Tailwind yellow-400 */
+  cursor: pointer;
+  margin-bottom: 0.75rem;
+}
+
+summary::-webkit-details-marker {
+  display: none;
+}
